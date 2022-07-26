@@ -1,1 +1,1 @@
-# Computer_Vision_Project_AMG
+# Automatic_License_Plate_Recognition
