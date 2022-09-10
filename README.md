@@ -19,4 +19,4 @@ PROJECT DETAILS:
 • For the License Plate Recognition, tentative application of the KNN ML Algorithm (failed). 
 • Customized Dataset Implementation based on the folder hierarchy. Manual Split in order to have a Balanced Train-Test.
 
-Project Repository: https://github.com/alessioborgi/Automatic_License_Plate_Recognition
+PROJECT REPOSITORY: https://github.com/alessioborgi/Automatic_License_Plate_Recognition
