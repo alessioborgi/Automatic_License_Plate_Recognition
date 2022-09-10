@@ -2,7 +2,7 @@
 
 Copyright © 2022 Alessio Borgi
 
-PROJECT SCOPE: Automatic License Plate Recognition of a given Image/Video through ML and DL Techniques dedicated to Companies that would like to keep track and automatize gate accesses.
+PROJECT SCOPE: Automatic License Plate Recognition of a given Car Image/Video through ML and DL Techniques dedicated to Companies that would like to keep track and automatize gate accesses.
 
 PROJECT RESULTS: 
 • Possibility to process three different typologies of recognition inputs: Images, Pre-Registered Videos, and Live-Videos.
