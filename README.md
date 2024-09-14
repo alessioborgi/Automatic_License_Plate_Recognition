@@ -1,4 +1,4 @@
-# Automatic_License_Plate_Recognition (ALPR)
+# Automatic License Plate Recognition (ALPR)
 
 **Copyright © 2022 Alessio Borgi**
 
