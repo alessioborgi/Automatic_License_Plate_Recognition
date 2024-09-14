@@ -1,6 +1,6 @@
 # Automatic License Plate Recognition (ALPR)
 
-**Copyright © 2022 Alessio Borgi**
+**Copyright © 2022 Alessio Borgi, Martina Doku, Giuseppina Iannotti**
 
 **PROJECT SCOPE**: Automatic License Plate Recognition of a given Car Image/Video through a CNN(Convolutional Neural Network) dedicated to Companies that would like to keep track and automatize gate accesses.
 
